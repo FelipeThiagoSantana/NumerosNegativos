@@ -1,6 +1,4 @@
 
-import Entities.Number;
-
 import java.util.Scanner;
 
 public class Main {
